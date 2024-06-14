@@ -14,7 +14,7 @@ section{
 	overflow: auto;
 	margin: 10px;
 }
-#chicken, #beef, #sushi{
+#laptop, #tv, #mobile{
 	border-left: 2px solid black;
 	border-bottom: 2px solid black;
 	float:right;
@@ -26,14 +26,14 @@ section{
 	font-size: 125%;
 	padding: 5px;
 }
-#chicken {
+#laptop {
 	background-color: #cf5b53;
 }
-#beef{
+#tv{
 	background-color: #ad322a;
 	color: white;
 }
-#sushi{
+#mobile{
 	background-color: #e0cc84;
 }
 p{
